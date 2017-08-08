@@ -7,7 +7,7 @@ import java.sql.Timestamp;
  * Created by Munna on 24-Jun-17.
  */
 @Entity
-@Table(name="user")
+@Table(name="users")
 public class User {
 
     @javax.persistence.Id
